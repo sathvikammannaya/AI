@@ -69,7 +69,7 @@ cv2.destroyAllWindows()
 import cv2
  
 # Reading the image
-image = cv2.imread(r'C:\Users\SAHYADRI\Pictures\images.jfif')
+image = cv2.imread(r'C:\Users\Satvik\Pictures\images.jfif')
  
 # dividing height and width by 2 to get the center of the image
 height, width = image.shape[:2]
